@@ -1,0 +1,14 @@
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Conceição Evaristo', 'conceicao@gmail.com', 'pequenos', 3500.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Pedro', 'pedro@gmail.com', 'pequenos', 2500.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Roberto', 'roberto@gmail.com', 'grandes', 5400.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Erica Queiroz Pinto', 'erica@gmail.com', 'grandes', 4500.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('CARLOS MENDES', 'carlos@gmail.com', 'pequenos', 3200.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Juliana Alves', 'juliana@gmail.com', 'grandes', 4700.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Roberto Silva', 'roberto@gmail.com', 'pequenos', 3000.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Fernanda Rocha', 'fernanda@gmail.com', 'grandes', 5200.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Lucas Oliveira', 'lucas@gmail.com', 'pequenos', 2800.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Patricia Gomes', 'patricia@gmail.com', 'grandes', 4900.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Marcos Vinicius', 'marcos@gmail.com', 'pequenos', 3100.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Aline Castro', 'aline@gmail.com', 'grandes', 5300.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Bruno Martins', 'bruno@gmail.com', 'pequenos', 2950.0);
+INSERT INTO tb_veterinario (nome, email, especialidade, salario) VALUES('Camila Duarte', 'camila@gmail.com', 'grandes', 5100.0); 
